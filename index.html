@@ -30,11 +30,24 @@
     <body>
         
         <div id="header"></div>
-your usage would look something like this:
+        ..
 <script>
 $('#header').load('partials/head.html');
 </script>       
         
+
+<div id="index_page">
+  <div id="main_content">
+    <p><span>Hii 
+      {{#if username}} {{username}} {{/if}} ,</span><br> I am your<br><span>Virtual Assistant</span></p>
+  </div>
+  {{!-- {{>footer}} --}}
+
+<div id="rasa-chat-widget" data-websocket-url="http://34.131.236.128"></div>
+<script src="https://unpkg.com/@rasahq/rasa-chat" type="application/javascript"></script>
+
+</div> 
+<br><br><br><br>
         <div id="header">
            <h1>Medicbot</h1>
             
