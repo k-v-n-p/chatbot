@@ -32,7 +32,7 @@ z
         <div id="header12"> </div>
         
         <script>
-        $("#header12").load("partials/header.html");
+        $("#header12").load('partials/header.html');
         </script>       
         
 
@@ -64,7 +64,7 @@ z
               (e.onload = () => {
                 window.WebChat.default(
                   {
-                    initPayload: "/greet_0_1",
+                    initPayload: '/greet_0_1',
                     customData: { language: "en" },
                     socketUrl: "http://34.131.236.128",
                     // add other props here
