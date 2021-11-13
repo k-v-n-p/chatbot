@@ -27,12 +27,36 @@
 
     <body>
         
+
+<link rel="stylesheet" href="../css/index.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../js/dropdown.js"></script>
   
-        <div id="header12"> </div>
+<div class="header">
+    <div id="header_text">
+      <b> MEDICBOT</b>
+    </div>
+    <div id="header_right">
         
-        <script>
-        $('#header12').load('partials/header.html');
-        </script>       
+      <div class="dropdown">
+        <button  type="button" class="dropbtn">
+          <a class="header_link" href="./history">Account</a></button>
+        <div class="dropdown-content">
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  </div>
+      </div>
+      
+        <button  type="button" class="jik"> <a class="header_link" href="./history">Contact</a> </button>
+        <button  type="button" class="jik"> <a class="header_link" href="./docs">Docs</a> </button>
+        <button  type="button" class="jik"> <a class="header_link" href="./">Chatbot</a> </button>
+        <!--<button  type="button"class="jik"> <a class="header_link" href="./">Developers</a> </button>-->
+        
+    </div>
+</div>
+
+
         
 
         <div id="index_page">
