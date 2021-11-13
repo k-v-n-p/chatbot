@@ -32,7 +32,7 @@ z
         <div id="header12"> </div>
         
         <script>
-        $('#header12').load('partials/header.html');
+        $("#header12").load("partials/header.html");
         </script>       
         
 
@@ -64,7 +64,7 @@ z
               (e.onload = () => {
                 window.WebChat.default(
                   {
-                    initPayload: '/greet_0_1',
+                    initPayload: "/greet_0_1",
                     customData: { language: "en" },
                     socketUrl: "http://34.131.236.128",
                     // add other props here
@@ -87,5 +87,29 @@ z
 </html>
 
 ';
+
+
+$client = new MongoDB\Client(
+'mongodb+srv://test1:<password>@cluster0.kyp0j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+);
+
+
+if($client->connected)
+  echo "DB Connected successfully";
+else
+  echo "DB Connection failed";
+
+$db = $client->test;
+
+
+$server = "mongodb+srv://admin:<mypassword>@m001-basics-ivutt.mongodb.net/video?retryWrites=true";
+// Connecting to server
+$c = new MongoDB\Client( $server );
+if($c->connected)
+    echo "Connected successfully";
+else
+    echo "Connection failed";
+
+
 ?>
 
