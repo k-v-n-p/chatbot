@@ -15,20 +15,17 @@ body {
 }
 
 .dropbtn {
-  cursor: pointer;
-
+  
+  background-color: transparent;
   color: transparent;
   text-align: center;
   transition-duration: 0.4s;
   border: 1px ;
   font-size: 1em;
   float: right;
+  cursor: pointer;
 }
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
 
 .dropdown-content {
   display: none;
@@ -44,6 +41,7 @@ body {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  font-size: 0.80em;
 }
 
 .dropdown-content a:hover {background-color: #f1f1f1}
@@ -89,10 +87,13 @@ body {
     color: rgb(151, 235, 250);
 }
 #header_right {
+
     text-align: center;
     display: block;
     width: 55%;
     font-size: 1.5em;
+    position: relative;
+    display: inline-block;
 }
 .header_link {
     color: white;
