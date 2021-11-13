@@ -15,8 +15,9 @@ body {
 }
 
 .dropbtn {
+  
   background-color: transparent;
-  color: transparent;
+  color: white;
   text-align: center;
   transition-duration: 0.4s;
   border: 1px ;
@@ -24,7 +25,10 @@ body {
   float: right;
 }
 
-
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
 .dropdown-content {
   display: none;
   position: absolute;
