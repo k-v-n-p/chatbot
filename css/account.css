@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    background-color: #e1f7f5;
+    /* background-image: url(/img/AIDoc.jpg); */
+}
+
+.header {
+    background-color: rgba(7, 7, 109, 0.8);
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: 60px;
+}
+
+#header_text {
+    text-align: center;
+    font-size: 1.5em;
+    float: left;
+    width: 30%;
+    /* font: caption; */
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #84CECF;
+}
+#header_text:hover {
+    color: rgb(151, 235, 250);
+}
+#header_right {
+    text-align: center;
+    display: block;
+    width: 55%;
+    
+}
+.header_link {
+    color: #6acfd1;
+    font-weight: bold;
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+}
+.header_link:hover {
+    color: rgb(151, 235, 250);
+}
+#account {
+    color: rgb(147, 147, 151);
+    width: 15%;
+}
+#account a {
+    text-decoration: none;
+    color: rgb(147, 147, 151);
+}
+.main_content {
+    width: auto;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+.form {
+    height: auto;
+    width: auto;
+    padding: 30px;
+    background-color: rgb(5, 73, 119);
+}
+.form label {
+    color: beige;
+}
+.form input {
+    width: 50%;
+    margin: 10px 0px;
+    padding: 5px;
+}
