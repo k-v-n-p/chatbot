@@ -1,5 +1,4 @@
-<?php
-echo '
+
 <html>
     <head> 
         <meta charset="utf-8">
@@ -11,7 +10,7 @@ echo '
         
       <!-- 
         <link rel="stylesheet" href="css/superslides.css">
-z
+
          font-awesome
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 
@@ -86,11 +85,11 @@ z
 
 </html>
 
-';
 
+<?php
 
 $client = new MongoDB\Client(
-'mongodb+srv://test1:<password>@cluster0.kyp0j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+'mongodb+srv://test1:quertyjin@cluster0.kyp0j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 );
 
 
@@ -99,17 +98,17 @@ if($client->connected)
 else
   echo "DB Connection failed";
 
+  /*
 $db = $client->test;
 
 
-$server = "mongodb+srv://admin:<mypassword>@m001-basics-ivutt.mongodb.net/video?retryWrites=true";
+$server = "mongodb+srv://admin:quertyjin@m001-basics-ivutt.mongodb.net/video?retryWrites=true";
 // Connecting to server
 $c = new MongoDB\Client( $server );
 if($c->connected)
     echo "Connected successfully";
 else
     echo "Connection failed";
-
-
+*/
 ?>
 
