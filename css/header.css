@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    /* background-color: #f8f9fa; */
+    background-color: #34ADFF;
    
 }
 #main-heading {
@@ -8,7 +8,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #navbarToggler {
-    padding-left: 40%;
+    padding-left: 35%;
     justify-content: center;
 }
 .header-links {

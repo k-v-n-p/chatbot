@@ -15,8 +15,7 @@
   <meta name="description" content="Medicbot: A healthcare chatbot">
   <meta name="keywords" content="Medicbot.in, Medicbot India, Rasa Chatbot, Medicbot Chatbot, Healthcare chatbot, Medicbot healthcare chatbot, Rasa framework chatbot, Healthcare conversational AI, Medicbot Nit SIlchar, Medicbot Prateek Mishra, Medicbot ARTPARK IISC Bangalore, Medic chatbot">
 
-        <link rel="stylesheet" href="css/index.css">
-        <link rel="stylesheet" href="css/header.css">
+        
         <link rel="icon" href="img/medicbot.png">
         <script src="js/dropdown.js" type="application/javascript"></script>
         <title>Medicbot: A healthcare chatbot</title>

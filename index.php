@@ -2,6 +2,8 @@
 <html>
     <head> 
         <?php include 'partials/head.php'; ?>
+        <link rel="stylesheet" href="css/index.css">
+        
     </head>
 
 

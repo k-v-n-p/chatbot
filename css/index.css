@@ -16,7 +16,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #navbarToggler {
-    padding-left: 40%;
+    padding-left: 35%;
     justify-content: center;
 }
 .header-links {
@@ -28,7 +28,7 @@ body {
     vertical-align: middle;
     justify-content: center;
     align-items: center;
-    padding: 100px;
+    /* padding: 100px; */
 }
 .main-page-container img {
    
@@ -41,9 +41,12 @@ body {
     vertical-align: middle;
     justify-content: center;
     align-items: center;
-    padding: 100px;
+    padding-bottom: 100px;
+    /* padding: 100px; */
+    
 }
 #block-2 {
     background-color: #34ADFF;
+    padding: 100px 100px 0px 100px;
     /* background-image: url(/img/AIDoc.jpg); */
 }

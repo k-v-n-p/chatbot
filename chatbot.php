@@ -2,12 +2,14 @@
 <html>
     <head> 
     <?php include 'partials/head.php'; ?>
+    <link rel="stylesheet" href="css/header.css">
    </head>
 
 
     <body>
         
         <?php include 'partials/header.php'; ?>
+        
 
         
        
