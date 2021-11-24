@@ -4,6 +4,7 @@ body {
     background-color: #34ADFF;
     background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
     min-height: 100px;
+    height: 100vh;
    
 }
 #main-heading {
