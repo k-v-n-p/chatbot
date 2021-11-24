@@ -8,7 +8,7 @@
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#" id="main-heading">MEDICBOT</a>
+        <a class="navbar-brand" href="index.php" id="main-heading">MEDICBOT</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -16,7 +16,7 @@
           <div class="collapse navbar-collapse" id="navbarToggler">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item header-links">
-                <a class="nav-link active" aria-current="page" href="#">Chatbot</a>
+                <a class="nav-link active" aria-current="page" href="chatbot.php">Chatbot</a>
               </li>
               <li class="nav-item header-links">
                 <a class="nav-link" href="#">Docs</a>
@@ -25,7 +25,7 @@
                 <a class="nav-link disabled">History</a>
               </li>
               <li class="nav-item header-links">
-                <a class="nav-link disabled">LOG IN | Sign Up</a>
+                <a class="nav-link disabled">LOG IN | SIGN UP</a>
               </li>
             </ul>
             

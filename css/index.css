@@ -2,8 +2,8 @@ body {
     margin: 0;
     /* background-color: #f8f9fa; */
     background-color: #34ADFF;
-    background-image: -webkit-linear-gradient(150deg, #34ADFF 50%, #4CBFFF 50%);
-    min-height: 100px;
+    background-image: -webkit-linear-gradient(150deg, #34ADFF 55%, #4CBFFF 55%);
+    min-height: 1000px;
     height: 100vh;
    
 }
