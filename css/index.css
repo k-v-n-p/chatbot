@@ -2,10 +2,14 @@ body {
     margin: 0;
     /* background-color: #f8f9fa; */
     background-color: #34ADFF;
-    background-image: -webkit-linear-gradient(150deg, #34ADFF 55%, #4CBFFF 55%);
-    min-height: 1000px;
-    height: 100vh;
    
+   
+}
+#front-page-gradient {
+    background-image: -webkit-linear-gradient(150deg, #34ADFF 55%, #4CBFFF 55%);
+    /* height: 100vh; */
+    min-height: 100vh;
+
 }
 #main-heading {
     letter-spacing: 2px;
@@ -31,4 +35,15 @@ body {
     width: 80%;
     /* height: auto; */
     
+}
+.main-page-content {
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+#block-2 {
+    background-color: #34ADFF;
+    /* background-image: url(/img/AIDoc.jpg); */
 }
