@@ -18,8 +18,8 @@
               <p>Combining AI and Technology with human expertise</p>
               <span><p>Powered by RASA</p></span> -->
               <div class="d-flex flex-column bd-highlight mb-3">
-                <div class="p-2 bd-highlight"><h1>A Healthcare <br> Conversational AI</h1></div>
-                <div class="p-2 bd-highlight"><h3>AI and technology<be></be> combined with human expertise</h3></div>
+                <div class="p-2 bd-highlight"><h1>Medicbot Healthcare <br> Conversational AI</h1></div>
+                <div class="p-2 bd-highlight"><h3>AI and Technology<be></be> combined with Human expertise</h3></div>
                 <div class="p-2 bd-highlight">powered by RASA</div>
               </div>
              

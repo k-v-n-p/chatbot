@@ -9,7 +9,24 @@
     <body>
         
         <?php include 'partials/header.php'; ?>
-        
+
+        <div id="chatbot-page">
+      <div class="container">
+          <div class="row">
+            <div class="col-lg-12  chatbot-page-content">
+            
+              <div class="d-flex flex-column bd-highlight mb-3">
+                <div class="p-2 bd-highlight"><h1>A Healthcare Chatbot</h1></div>
+                <div class="p-2 bd-highlight"><h3>We aim to make healthcare easily accessible with<br> our AI powered diagnostic engine, <br> which uses Natural Language Understanding for diagnosis</h3></div>
+                
+                
+              </div>
+             
+            </div>
+           
+          </div>
+      </div>
+      </div>
 
         
        
