@@ -2,11 +2,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv='content-language' content='en-in'>
     <meta name="author" content="Prateek Mishra">
     <meta property="og:site_name" content="Medicbot.in" />
     <meta property="og:type" content="object" />
     <meta property="og:title" content="Medicbot: A healthcare chatbot" />
-    <meta property="og:url" content="https://medicbot.in/"/>
+    <meta property="og:url" content="http://medicbot.in/"/>
     <meta property="og:description" content="<strong>Medicbot</strong> A Healthcare chatbot" />
     <!-- <meta property="og:image"
           content="images/dp.jfif" /> -->
