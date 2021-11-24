@@ -25,7 +25,7 @@
              
             </div>
             <div class="col-lg-6 main-page-container">
-              <img src="img/medicbot.png" alt="medicbot logo">
+              <img src="img/medicbot.png" alt="medicbot-logo">
             </div>
           </div>
         </div>
