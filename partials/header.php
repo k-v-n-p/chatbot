@@ -25,7 +25,7 @@
                 <a class="nav-link disabled">History</a>
               </li>
               <li class="nav-item header-links">
-                <a class="nav-link disabled">LOG IN | SIGN UP</a>
+                <a class="nav-link" href="home.php">LOG IN | SIGN UP</a>
               </li>
             </ul>
             
