@@ -1,19 +1,19 @@
 body {
     margin: 0;
     /* background-color: #f8f9fa; */
-    background-color: #34ADFF;
+    background-color: #279be9;
    
    
 }
 #front-page-gradient {
-    background-image: -webkit-linear-gradient(150deg, #34ADFF 55%, #4CBFFF 55%);
+    background-image: -webkit-linear-gradient(150deg, #279be9 55%, #59c9fd 55%);
     /* height: 100vh; */
     min-height: 100vh;
 
 }
 #header-heading {
     letter-spacing: 2px;
-    font-size: 32px;
+    font-size: 24px;
     /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
 }
 #navbarToggler {
@@ -47,7 +47,6 @@ body {
     
 }
 #block-2 {
-    background-color: #34ADFF;
     padding: 100px 100px 0px 100px;
     /* background-image: url(/img/AIDoc.jpg); */
 }

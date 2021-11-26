@@ -29,7 +29,17 @@
       </div>
 
         
-       
+       <style>
+        
+         .rw-launcher{background-color: #279be9;
+          box-shadow: 4px 5px 20px 5px #272952;
+        }
+         .rw-conversation-container .rw-header{background-color: #279be9;}
+         .rw-conversation-container .rw-messages-container .rw-message .rw-client{background-color: #279be9;}
+         .rw-conversation-container .rw-messages-container .rw-message .rw-replies .rw-reply{background-color: #279be9;}
+
+         /* .rw-widget-container{background-color: #34ADFF;} */
+         </style>
         <script>!(function () {
             let e = document.createElement("script"),
               t = document.head || document.getElementsByTagName("head")[0];
