@@ -114,10 +114,10 @@
 			</div>
 			<span>use your account</span>
             <div class="form-group">
-			<input name="email" type="email" placeholder="Email" class="form-control"  required/>
+			<input name="email" type="email" placeholder="Email" class="form-control"  />
             </div>
             <div class="form-group">
-			<input name="password" type="password" placeholder="Password" class="form-control"  required/>
+			<input name="password" type="password" placeholder="Password" class="form-control"  />
             </div>
 			<a href="#">Forgot your password?</a>
 			<button  name="submit2"  type="submit" >Sign In</button>
