@@ -43,7 +43,7 @@
              
             </div>
             <div class="col-lg-6 main-page-content">
-              <p>Our AI model is trained to identify common diseases<br> and provide medication and advice</p>
+              <p>Our AI model is trained to identify common<br> diseases and provide medication and advice</p>
             </div>
           </div>
       </div>
