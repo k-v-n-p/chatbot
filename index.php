@@ -31,12 +31,12 @@
         </div>
       </div>
       <div id="block-2">
-      <div class="container">
+      <div class="container about">
           <div class="row">
             <div class="col-lg-6  main-page-content">
             
               <div class="d-flex flex-column bd-highlight mb-3">
-                <div class="p-2 bd-highlight"><h1>Medicbot</h1></div>
+                <div class="p-2 bd-highlight main-page-img"><img src="img/patient.png" alt="Medicbot for Patients"></div>
                 <div class="p-2 bd-highlight"><h3>For Patients</h3></div>
                 
               </div>
@@ -48,14 +48,14 @@
           </div>
       </div>
 
-      <div class="container">
+      <div class="container about">
           <div class="row">
          
 
             <div class="col-lg-6  main-page-content order-lg-1">
             
               <div class="d-flex flex-column bd-highlight mb-3">
-                <div class="p-2 bd-highlight"><h1>Medicbot</h1></div>
+                <div class="p-2 bd-highlight main-page-img"><img src="img/healthcare.png" alt="medicbot for healthcare professionals"></div>
                 <div class="p-2 bd-highlight"><h3>For Healthcare Experts</h3></div> 
               </div>
              

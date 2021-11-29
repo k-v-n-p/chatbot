@@ -22,7 +22,7 @@
                 <a class="nav-link" href="#">Docs</a>
               </li>
               <li class="nav-item header-links">
-                <a class="nav-link disabled">History</a>
+                <a class="nav-link disabled" href="devs.php">Devs</a>
               </li>
               <li class="nav-item header-links">
                 <a class="nav-link" href="home.php">LOG IN | SIGN UP</a>

@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: #59c9fd;
+    
+}
+#header-heading {
+    letter-spacing: 2px;
+    font-size: 24px;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+}
+#navbarToggler {
+    padding-left: 35%;
+    justify-content: center;
+}
+.header-links {
+    margin: 0 30px 0 30px;
+}

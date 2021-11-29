@@ -1,7 +1,13 @@
 body {
     margin: 0;
     background-color: #59c9fd;
-   
+    background-image: url("../img/chatbot.png");
+    height: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-blend-mode: soft-light;
+    background-position-x: right;
 }
 #header-heading {
     letter-spacing: 2px;
@@ -15,8 +21,13 @@ body {
 .header-links {
     margin: 0 30px 0 30px;
 }
+#chatbot-page {
+   
+   
+}
 .chatbot-page-content {
     padding: 200px 100px;
+    
     /* color: #c7c7c7; */
 }
 /* #index_page {
